@@ -1,2 +1,2 @@
 def hello():
-    print("Hello, GitHub Actions!")
+    return "Hello, GitHub Actions!"
